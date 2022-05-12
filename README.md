@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=790b76113c02fd2b37d8a68938594bcd4bf282126856bcd3&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammartens&label=Profile%20views&color=0e75b6&style=flat" alt="ammartens" /> </p>
 
-- 🌱 I’m currently learning **HTML/CSS, Javascript, React**
+- 🌱 I’m currently learning **HTTP Requests, Javascript, React**
 
 - 💬 Ask me about **The best hikes in Arizona and my dog Oswald!**
 
