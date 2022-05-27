@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 ,  I'm Ariana!</h1>
-<h3 align="center">I'm a Fullstack Software Engineer student in Codecademy's, Code Academy. I have a background in Healthcare, and in my journey of combining passions for community wellness and computer programming.</h3>
+<h3 align="center">I'm a Fullstack Software Engineer, With a background in Healthcare, and in my journey of combining passions for community wellness and computer programming.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=790b76113c02fd2b37d8a68938594bcd4bf282126856bcd3&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammartens&label=Profile%20views&color=0e75b6&style=flat" alt="ammartens" /> </p>
