@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋 ,  I'm Ariana!</h1>
-<h3 align="center">I'm a Fullstack Software Engineer, With a background in Healthcare. I have a passion for community wellness and computer programming.</h3>
+<h1 align="center">Hi 👋 ,  I'm Ariana!</h1> 
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=790b76113c02fd2b37d8a68938594bcd4bf282126856bcd3&rid=giphy.gif&ct=s">
+<h3 align="center">I'm a Fullstack Software Engineer, With a background in Healthcare. I have a passion for community wellness and computer programming.<br><br><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
+</h3>
+<br>
+<img align="right" alt="coding gif" src='https://github.com/ammartens/ammartens/blob/main/coding.gif'>
 
-
-- 🌱 I’m currently learning: **Website Accessibility, React Native, Typescript**
+- 🌱 I’m currently learning: **Website Accessibility, React Native, Typescript** 
 
 - 💬 Ask me about: **The best hikes in Arizona and my dog, Oswald!**
 
@@ -12,13 +18,14 @@
 
 - ⭐️ Pronouns: **She/Her**
 
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-| <a href="https://github.com/ammartens/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ammartens&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ariana's github stats" /></a> | <a href="https://github.com/ammartens/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ammartens&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
+</td>
+<td width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&layout=compact&theme=dark&hide_border=true">
+</table>
+</div>
 
