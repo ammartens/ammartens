@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=790b76113c02fd2b37d8a68938594bcd4bf282126856bcd3&rid=giphy.gif&ct=s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammartens&label=Profile%20views&color=0e75b6&style=flat" alt="ammartens" /> </p>
 
-- 🌱 I’m currently learning **Website Accessibility, React Native, TDD with Mocha**
+- 🌱 I’m currently learning: **Website Accessibility, React Native, Typescript**
 
-- 💬 Ask me about **The best hikes in Arizona and my dog, Oswald!**
+- 💬 Ask me about: **The best hikes in Arizona and my dog, Oswald!**
 
-- 📫 How to reach me **arianamartens@gmail.com**
+- 📫 How to reach me: **arianamartens@gmail.com**
 
-- ⭐️ Pronouns **She/Her**
+- ⭐️ Pronouns: **She/Her**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
