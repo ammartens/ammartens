@@ -23,12 +23,12 @@
 <tr>
 <td width="50%">
  <a href="https://github.com/ammartens/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammartens&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammartens&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/ammartens/github-readme-stats">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&layout=compact&theme=dark&hide_border=true">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&langs_count=8&layout=compact&theme=dark&hide_border=true">
 </a>
 </table>
 </div>
