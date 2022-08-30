@@ -10,9 +10,9 @@
 <br>
 <img align="right" alt="coding gif" src='https://github.com/ammartens/ammartens/blob/main/coding.gif'>
 
-- 🌱 I’m currently learning: **Website Accessibility, React Native, Typescript** 
+- 🌱 I’m currently learning: **Website Accessibility, Sustainable software design, Typescript** 
 
-- 💬 Ask me about: **The best hikes in Arizona and my dog, Oswald!**
+- 💬 Ask me about: **The best hikes in Arizona and the method of environmental coding!**
 
 - 📫 How to reach me: **arianamartens@gmail.com**
 
