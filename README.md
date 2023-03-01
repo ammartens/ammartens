@@ -7,6 +7,7 @@
 <img align="right" alt="coding gif" src='https://github.com/ammartens/ammartens/blob/main/coding.gif'>
 
 <br>
+
 - 🌱 I’m currently learning: **Website Accessibility, Sustainable software design, Typescript** 
 
 - 💬 Ask me about: **The best hikes in Arizona and the method of environmental coding!**
