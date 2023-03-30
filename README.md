@@ -16,18 +16,9 @@
 
 - ⭐️ Pronouns: **She/Her**
 
-<div align="center">
-  <table>
-<tr>
-<td width="50%">
- <a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ammartens&theme=dark")](https://git.io/streak-stats>
-</a>
-</td>
-<td width="50%">
+<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&langs_count=8&layout=compact&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammartens&hide_progress=true&theme=dark&langs_count=10" />
 </a>
- </td>
-</table>
-</div>
+
